@@ -58,9 +58,26 @@
           <p><input type="submit" value="Login"></p>
           </fieldset>
           </form>
-          </tr>
-          <tr>
-          <td>baris 5 kolom 2</td>
-          </tr>
-          </table>
+   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTML Lanjutan</title>
+</head>
+<body>
+<header>
+<h1>Membuat List</h1>
+</header>
+</body>
+</html>
 
+<section id="order-list">
+          <h2>Ordered List</h2>
+          <ol>
+          <li>Pemrograman Web</li>
+          <li>Sistem Informasi</li>
+          <li>Basis Data 2</li>
+          </ol>
+          </section>
