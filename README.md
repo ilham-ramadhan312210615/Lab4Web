@@ -11,3 +11,18 @@
      <dd>Sistem Informasi</dd>
      <dd>Rekayasa Perangkat Lunak</dd>
   </dl>
+
+<ul>
+<li>Makanan
+<ol>
+<li>Nasi Padang</li>
+<li>Ayam Bakar</li>
+</ol>
+</li>
+<li>Minuman
+<ol>
+<li>Jus Mangga</li>
+<li>Es Teh</li>
+</ol>
+</li>
+</ul>
