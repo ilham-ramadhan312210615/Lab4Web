@@ -26,3 +26,26 @@
 </ol>
 </li>
 </ul>
+
+
+<table border="1">
+          <tr>
+          <td colspan="2">Baris 1 kolom 1</td>
+          </tr>
+          <tr>
+          <td>Baris 2 kolom 1</td>
+          <td>baris 2 kolom 2</td>
+          </tr>
+          <tr>
+          <td>Baris 3 kolom 1</td>
+          <td>baris 3 kolom 2</td>
+          </tr>
+          <tr>
+          <td rowspan="2">Baris 4 kolom 1</td>
+          <td>baris 4 kolom 2</td>
+          </tr>
+          <tr>
+          <td>baris 5 kolom 2</td>
+          </tr>
+          </table>
+
