@@ -43,6 +43,21 @@
           <tr>
           <td rowspan="2">Baris 4 kolom 1</td>
           <td>baris 4 kolom 2</td>
+
+                    <form action="proses.php" method="post">
+          <fieldset>
+          <legend>Login</legend>
+          <p>
+          <label for="uname">Username</label>
+          <input type="text" id="uname" name="username">
+          </p>
+          <p>
+          <label for="passwd">Password</label>
+          <input type="password" id="passwd" name="password">
+          </p>
+          <p><input type="submit" value="Login"></p>
+          </fieldset>
+          </form>
           </tr>
           <tr>
           <td>baris 5 kolom 2</td>
