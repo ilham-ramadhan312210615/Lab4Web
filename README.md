@@ -81,3 +81,51 @@
           <li>Basis Data 2</li>
           </ol>
           </section>
+
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTML Lanjutan</title>
+</head>
+<body>
+<header>
+<h1>Membuat List</h1>
+</header>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTML Lanjutan</title>
+</head>
+<body>
+<header>
+<h1>Membuat List</h1>
+</header>
+</body>
+</html>
+
+<section id="order-list">
+          <h2>Ordered List</h2>
+          <ol>
+          <li>Pemrograman Web</li>
+          <li>Sistem Informasi</li>
+          <li>Basis Data 2</li>
+          </ol>
+          </section>
+
+          <section id="unorder-list">
+                    <h2>Unordered List</h2>
+                    <ul type="square">
+                    <li>Jaringan Komputer</li>
+                    <li>Struktur Data</li>
+                    <li>Algoritma &amp; Pemrograman</li>
+                    </ul>
+                    </section>
+       
